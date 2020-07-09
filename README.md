@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gowrishankarnath/gowrishankarnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**  
+🔭 I'm currently working as Professor in the Department of Computer Science and Engineering at Dr.Ambedkar Institute of Technology, Bengaluru, India.  
 
-Here are some ideas to get you started:
+I earned my PhD in Engineering from Jadavpur University, Kolkata, India in 2010 and MTech in Software Engineering and BE in Computer Science and Engineering from Visvesvaraya Technological University (VTU), Belagavi, India, in the years 2005 and 2003 respectively.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current current research interests are mainly focused on the applications and implications of Machine Learning, Deep Learning and Big Data analytics in Healthcare.  
+
+### 🔭 Reach Me @  
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [@g_s_nath](https://www.twitter.com/g_s_nath)  
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [@gowrishankarnath](https://www.linkedin.com/in/gowrishankarnath)  
