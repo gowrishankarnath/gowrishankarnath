@@ -3,7 +3,7 @@
 **About Me**  
 🔭 I'm currently working as Professor in the Department of Computer Science and Engineering at Dr.Ambedkar Institute of Technology, Bengaluru, India.  
 
-I earned my PhD in Engineering from Jadavpur University, Kolkata, India in 2010 and MTech in Software Engineering and BE in Computer Science and Engineering from Visvesvaraya Technological University (VTU), Belagavi, India, in the years 2005 and 2003 respectively.  
+I earned my M.B.A. in Marketing Management from Indira Gandhi National Open University (IGNOU), New Delhi, India in 2020, Ph.D. in Engineering from Jadavpur University, Kolkata, India in 2010, M.Tech. in Software Engineering from Visvesvaraya Technological University (VTU), Belagavi, India in 2005 and B.E. in Computer Science and Engineering from Visvesvaraya Technological University (VTU), Belagavi, India, in 2003.  
 
 My current current research interests are mainly focused on the applications and implications of Machine Learning, Deep Learning and Big Data analytics in Healthcare.  
 
